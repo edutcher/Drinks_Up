@@ -4,10 +4,15 @@
     height: 512px;
 }
 
-#test1 {
+#cocktail {
     height: 40vh;
 }
 
-#test2 {
+#brewery {
     height: 40vh;
+}
+
+select {
+    margin-top: 50px;
+    margin-left: 50px;
 }
